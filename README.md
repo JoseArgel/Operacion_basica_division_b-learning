@@ -1,6 +1,6 @@
 # Operaciones_basicas_division_b-learning
 
-## # Justificación
+## Justificación
 
 La creación de nuestro OVA tiene como objetivo explicar de la manera más sencilla y didáctica posible; por medio de la cual los niños de tercero a quinto grado de básica primaria puedan aprender la división como operación matemática fundamental.
 
